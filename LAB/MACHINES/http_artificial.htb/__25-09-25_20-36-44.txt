@@ -1,0 +1,6 @@
+# Dirsearch started Thu Sep 25 20:38:51 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://artificial.htb/
+
+302   199B   http://artificial.htb/dashboard    -> REDIRECTS TO: /login
+200   857B   http://artificial.htb/login
+302   189B   http://artificial.htb/logout    -> REDIRECTS TO: /
+200   952B   http://artificial.htb/register
